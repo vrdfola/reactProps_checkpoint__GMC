@@ -1,0 +1,28 @@
+[
+	{
+		"name": "iphone 13",
+		"image": "./images/iphone 13.jpg",
+		"price": "$2990"
+	},
+	{
+		"name": "iphone 6 plus",
+		"image": "./images/iphone 6 plus.jpg",
+		"price":  "$399"
+	},
+	{
+		"name": "iphone 12",
+		"image": "./images/iphone 12.jpg",
+		"price":  "$799"
+	},
+	{
+		"name": "Apple watch series 7",
+		"image": "./images/apple watch s 7.jpg",
+		"price":  "$1999"
+	},
+	{
+		"name": "iphone 7 plus",
+		"image": "./images/iphone7-plus-5-1.jpg",
+		"price":  "$699"
+	}
+]
+
